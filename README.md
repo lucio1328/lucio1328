@@ -69,10 +69,10 @@
 
 ## 🔥 **Mes Projets Recommandés**  
 
-🌟 **Projet 1** - *Description courte du projet*  
+🌟 **Framework java** - *Ce projet est un défi personnel visant à approfondir mes compétences en JAVA et à acquérir de l'expérience en développement de frameworks.*  
 🔗 [Repo GitHub](https://github.com/lucio1328/main)  
 
-🌟 **Projet 2** - *Description courte du projet*  
+🌟 **Atelier** - *Application de gestion d'atelier de reparation d'ordinateur*  
 🔗 [Repo GitHub](https://github.com/lucio1328/atelier)  
 
 ---
