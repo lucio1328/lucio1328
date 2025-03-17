@@ -70,10 +70,10 @@
 ## 🔥 **Mes Projets Recommandés**  
 
 🌟 **Projet 1** - *Description courte du projet*  
-🔗 [Repo GitHub](https://github.com/TON_USERNAME/PROJET1)  
+🔗 [Repo GitHub](https://github.com/lucio1328/main)  
 
 🌟 **Projet 2** - *Description courte du projet*  
-🔗 [Repo GitHub](https://github.com/TON_USERNAME/PROJET2)  
+🔗 [Repo GitHub](https://github.com/lucio1328/atelier)  
 
 ---
 
