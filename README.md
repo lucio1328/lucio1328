@@ -55,13 +55,29 @@
 
 ---
 
-### 📊 **GitHub Stats**  
+## 📊 **Statistiques GitHub**  
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucio1328&layout=compact&theme=dark)  
+| 📈 Stats générales  | 🏆 Trophées GitHub |
+|----------------------|------------------|
+| ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=lucio1328&show_icons=true&theme=dark&count_private=true) | ![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=lucio1328&theme=onedark&column=4) |
+
+| 🏅 Répartition des langages | 🚀 Activité récente |
+|----------------------------|--------------------|
+| ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=lucio1328&layout=compact&theme=dark) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucio1328&theme=dark) |
 
 ---
 
-### 🎯 **Fun Fact**  
+## 🔥 **Mes Projets Recommandés**  
+
+🌟 **Projet 1** - *Description courte du projet*  
+🔗 [Repo GitHub](https://github.com/TON_USERNAME/PROJET1)  
+
+🌟 **Projet 2** - *Description courte du projet*  
+🔗 [Repo GitHub](https://github.com/TON_USERNAME/PROJET2)  
+
+---
+
+## 🎯 **Fun Fact**  
 💡 *L'innovation et la technologie sont mes passions. Toujours en quête de nouveaux défis !* 🚀  
 
 ---
